@@ -1,0 +1,32 @@
+Astronimer's Visual Pack
+Astronimer's Visual Pack 8k Textures
+B9 part Switch
+Better Time Warp Continued
+Click Through Blocker
+Community Resource Pack
+Community Tech Tree
+Community Terrain Texture Pack
+Dynamic Battery Storage
+Easy Vessel Switch
+Environmental Visual Enhancements
+Firespitter
+Firespitter Core
+Firespitter Resources config
+Modual Manager
+Near Future Electrical
+Near Future Elictrical Core
+Near Future IVA Props
+Near Future Launch Vehicles
+Near Future Propulsion
+Near Future Solar
+Near Future Solar Core
+Near Future Spacecraft
+SCANsat
+Scatterer
+Scatterer-default config
+Scatterer-sunflare
+Stockalike Station Parts Expansion
+TestureReplacer
+Toolbar
+Toolbar Controller
+WastEditorCareraContinued
